@@ -22,6 +22,7 @@ The database schema is designed to handle:
 ### Entity Relationship Diagram
 ![Database Schema](database-schema.png)
 
+
 ## Tech Stack (Planned)
 - **Frontend**: SvelteKit
 - **Backend**: FastAPI (Python)
