@@ -22,6 +22,10 @@ The database schema is designed to handle:
 ### Entity Relationship Diagram
 ![Database Schema](database-schema.png)
 
+### WebApp Concept Design using FIGMA
+![WebApp Logo and Buttons](buttons.png)
+![WebApp Color and Texography](text_color.png)
+
 
 ## Tech Stack (Planned)
 - **Frontend**: SvelteKit
