@@ -19,11 +19,8 @@ The database schema is designed to handle:
 - Substitute/fill-in players
 - Game scheduling and results
 
-View the full schema: [schema.dbml](schema.dbml)
+View the full schema: 
 <img width="824" height="593" alt="SCR-20251201-oepk" src="https://github.com/user-attachments/assets/5b8eb143-f0cc-45c6-9c2c-98004a4bfc98" />
-
-### Entity Relationship Diagram
-![Database Schema](schema-diagram.png)
 
 ## Tech Stack (Planned)
 - **Frontend**: SvelteKit
